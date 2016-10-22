@@ -31,7 +31,7 @@
 
 # Read this Darood:-
 <blockquote>
-<p>Ilahi Bahaq Bahurmatey La Ilaha Ilallah Aadam Safiullah salwatullahi alaih</p>
+#### <p>Ilahi Bahaq Bahurmatey La Ilaha Ilallah Aadam Safiullah salwatullahi alaih</p>
 </blockquote>
 Ilahi Bahaq Bahurmatey La Ilaha Ilallah Nooh Najiullah salwatullahi alaih
 Ilahi Bahaq Bahurmatey La Ilaha Ilallah Ibraheem Khaleelullah salwatullahi alaih
