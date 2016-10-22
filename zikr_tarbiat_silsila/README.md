@@ -57,21 +57,23 @@
 </blockquote>
 
 ## Read this and do Dum on you
-## Dardil Usth - Darjaan Usth - Dartan Usth (Dil mein wahi hai Jaan mein wahi hai Tan mein wahi hai)
-## Muhtarik Usth - Maskan Usth- Hosh Usth (Harkat karneywalla wahi hai, Hosh usisey hai)
-## Fahm Azusth - Sami Azusth - Bafiraz Usth (Faham usi se hai, samat us ise haisabkuch)
-### Hamma usth - Hamma usth- Hamma usth
+<ul>
+### <li> <em> <em>Dardil Usth - Darjaan Usth - Dartan Usth (Dil mein wahi hai Jaan mein wahi hai Tan mein wahi hai)</em> </li>
+### <li><em>Muhtarik Usth - Maskan Usth- Hosh Usth (Harkat karneywalla wahi hai, Hosh usisey hai)</em></li>
+### <li><em>Fahm Azusth - Sami Azusth - Bafiraz Usth (Faham usi se hai, samat us ise haisabkuch)</em></li>
+### <li>Hamma usth - Hamma usth- Hamma usth</li>
+</ul>
 
 # Read this dua
-<p>Yaa Naasir, Yaa Naseer, Yaa Haafiz, Yaa Hafeez, Yaa Wakeel, Yaa Rakheeb, YaaAllah Qud ki hifazaat kar Dum Bahaq Laillaha Illallah.</p>
-<p>Qud ka Hifaz karm Dum Bahaq Muhammaddur Rasoolullahi salwatullahi alaih wasalim wa mahdi  muradullahi alaihissalam.</p>
+<hr />Yaa Naasir, Yaa Naseer, Yaa Haafiz, Yaa Hafeez, Yaa Wakeel, Yaa Rakheeb, YaaAllah Qud ki hifazaat kar Dum Bahaq Laillaha Illallah.<hr />
+<p>Qud ka Hifaz karm Dum Bahaq Muhammaddur Rasoolullahi salwatullahi alaih wasalim wa mahdi  muradullahi alaihissalam.</p><hr />
 
 # Meaning:-
-<p>Aye Nusrat pahunchaney waley , Aye dard deney waley, Aye Hifazat karney waley, Aye Muhafiz, Aye karsaaz, Aye Nigehbaan, Aye Bil haq kalmai La ilaha illallahu mainey apni hifazat ki aur bahaq muhammaddur rasoolullah wa mahdi muradullah mainey qud ko mahfuz kar liya) </p>
+<p><hr />Aye Nusrat pahunchaney waley , Aye dard deney waley, Aye Hifazat karney waley, Aye Muhafiz, Aye karsaaz, Aye Nigehbaan, Aye Bil haq kalmai La ilaha illallahu mainey apni hifazat ki aur bahaq muhammaddur rasoolullah wa mahdi muradullah mainey qud ko mahfuz kar liya) <hr /></p>
 
 # Read this Astaghfar:-
-<p>Astaghfirullah Astaghfirullah min jami en   Qakirallah Qaulan  wafhilan wa qatiran wa saamian wa naaziran wala haula wala quvvatta illah billahi aliul azi  wafhilan wa qatiran wa saamian wa naaziran wala haula wala quvvatta illah billahi aliul azeem. </p>
+<p><hr />Astaghfirullah Astaghfirullah min jami en   Qakirallah Qaulan  wafhilan wa qatiran wa saamian wa naaziran wala haula wala quvvatta illah billahi aliul azi  wafhilan wa qatiran wa saamian wa naaziran wala haula wala quvvatta illah billahi aliul azeem. <hr /></p>
 
 # Meaning:-
- <p>Main allah se maghfirat chahtahoon  main allah se maghfirat chahtahoon un tamam baton se jinko allah makrooh jaanta hai, Jo mere qaul bafazle  quda  ya samat nazr se sarzad hai aur sivaye quda ke jo buland martab aur azmath wala hai kisiko taaqat  aur quvvat hai.</p>
+ <p><hr />Main allah se maghfirat chahtahoon  main allah se maghfirat chahtahoon un tamam baton se jinko allah makrooh jaanta hai, Jo mere qaul bafazle  quda  ya samat nazr se sarzad hai aur sivaye quda ke jo buland martab aur azmath wala hai kisiko taaqat  aur quvvat hai.<hr /></p>
 
