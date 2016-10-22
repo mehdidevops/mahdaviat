@@ -72,8 +72,8 @@
 <p><hr />Aye Nusrat pahunchaney waley , Aye dard deney waley, Aye Hifazat karney waley, Aye Muhafiz, Aye karsaaz, Aye Nigehbaan, Aye Bil haq kalmai La ilaha illallahu mainey apni hifazat ki aur bahaq muhammaddur rasoolullah wa mahdi muradullah mainey qud ko mahfuz kar liya) <hr /></p>
 
 # Read this Astaghfar:-
-<p><hr />Astaghfirullah Astaghfirullah min jami en   Qakirallah Qaulan  wafhilan wa qatiran wa saamian wa naaziran wala haula wala quvvatta illah billahi aliul azi  wafhilan wa qatiran wa saamian wa naaziran wala haula wala quvvatta illah billahi aliul azeem. <hr /></p>
+#<p><hr /> ### Astaghfirullah Astaghfirullah min jami en   Qakirallah Qaulan  wafhilan wa qatiran wa saamian wa naaziran wala haula wala quvvatta illah billahi aliul azi  wafhilan wa qatiran wa saamian wa naaziran wala haula wala quvvatta illah billahi aliul azeem. <hr /></p>
 
 # Meaning:-
-##  <p><hr />Main allah se maghfirat chahtahoon  main allah se maghfirat chahtahoon un tamam baton se jinko allah makrooh jaanta hai, Jo mere qaul bafazle  quda  ya samat nazr se sarzad hai aur sivaye quda ke jo buland martab aur azmath wala hai kisiko taaqat  aur quvvat hai.<hr /></p>
+##  <p><hr /> ### Main allah se maghfirat chahtahoon  main allah se maghfirat chahtahoon un tamam baton se jinko allah makrooh jaanta hai, Jo mere qaul bafazle  quda  ya samat nazr se sarzad hai aur sivaye quda ke jo buland martab aur azmath wala hai kisiko taaqat  aur quvvat hai.<hr /></p>
 
