@@ -65,15 +65,16 @@
 </ul>
 
 # Read this dua
-<hr />Yaa Naasir, Yaa Naseer, Yaa Haafiz, Yaa Hafeez, Yaa Wakeel, Yaa Rakheeb, YaaAllah Qud ki hifazaat kar Dum Bahaq Laillaha Illallah.<hr />
-<p>Qud ka Hifaz karm Dum Bahaq Muhammaddur Rasoolullahi salwatullahi alaih wasalim wa mahdi  muradullahi alaihissalam.</p><hr />
+#### <hr />Yaa Naasir, Yaa Naseer, Yaa Haafiz, Yaa Hafeez, Yaa Wakeel, Yaa Rakheeb, YaaAllah Qud ki hifazaat kar Dum Bahaq Laillaha Illallah.<hr />
+#### <hr />Qud ka Hifaz karm Dum Bahaq Muhammaddur Rasoolullahi salwatullahi alaih wasalim wa mahdi  muradullahi alaihissalam.<hr />
 
 # Meaning:-
-<p><hr />Aye Nusrat pahunchaney waley , Aye dard deney waley, Aye Hifazat karney waley, Aye Muhafiz, Aye karsaaz, Aye Nigehbaan, Aye Bil haq kalmai La ilaha illallahu mainey apni hifazat ki aur bahaq muhammaddur rasoolullah wa mahdi muradullah mainey qud ko mahfuz kar liya) <hr /></p>
+### <p><hr />Aye Nusrat pahunchaney waley , Aye dard deney waley, Aye Hifazat karney waley, Aye Muhafiz, Aye karsaaz, Aye Nigehbaan, Aye Bil haq kalmai La ilaha illallahu mainey apni hifazat ki aur bahaq muhammaddur rasoolullah wa mahdi muradullah mainey qud ko mahfuz kar liya) <hr /></p>
 
 # Read this Astaghfar:-
-#<p><hr /> ### Astaghfirullah Astaghfirullah min jami en   Qakirallah Qaulan  wafhilan wa qatiran wa saamian wa naaziran wala haula wala quvvatta illah billahi aliul azi  wafhilan wa qatiran wa saamian wa naaziran wala haula wala quvvatta illah billahi aliul azeem. <hr /></p>
+###<p><hr /> Astaghfirullah Astaghfirullah min jami en   Qakirallah Qaulan  wafhilan wa qatiran wa saamian wa naaziran wala haula wala quvvatta illah billahi aliul azi  wafhilan wa qatiran wa saamian wa naaziran wala haula wala quvvatta illah billahi aliul azeem. <hr /></p>
 
 # Meaning:-
-##  <p><hr /> ### Main allah se maghfirat chahtahoon  main allah se maghfirat chahtahoon un tamam baton se jinko allah makrooh jaanta hai, Jo mere qaul bafazle  quda  ya samat nazr se sarzad hai aur sivaye quda ke jo buland martab aur azmath wala hai kisiko taaqat  aur quvvat hai.<hr /></p>
+###  <p><hr />  Main allah se maghfirat chahtahoon  main allah se maghfirat chahtahoon un tamam baton se jinko allah makrooh jaanta hai, Jo mere qaul bafazle  quda  ya samat nazr se sarzad hai aur sivaye quda ke jo buland martab aur azmath wala hai kisiko taaqat  aur quvvat hai.<hr /></p>
+
 
